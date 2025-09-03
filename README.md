@@ -1,9 +1,6 @@
 # Hi, I’m Enochlin NanaYaa Dansowaa Baffoe 👋  
 
-> 💻 *Cybersecurity Intern | BSc Cybersecurity Student @ GCTU (Accra, Ghana)*  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/enochlinbaffoe)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:denochlin@gmail.com)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3A86FF&width=600&lines=Cybersecurity+Intern;BSc+Cybersecurity+Student+%40+GCTU;Network+Traffic+Analysis+%7C+Phishing+Simulation;Passionate+About+Simplifying+Security)](https://git.io/typing-svg)
 
 ---
 
@@ -32,12 +29,6 @@ Currently exploring both **defensive security** (SIEMs, monitoring, auditing) an
 - Ethical Hacking Trainee – June 2024  
 - Network Defense Essentials – June 2024  
 - Mastercard Cybersecurity Virtual Experience – May 2025  
-
----
-
-## 📊 GitHub Stats
-![Enochlin’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Dansowaa&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dansowaa&layout=compact&theme=radical)  
 
 ---
 
