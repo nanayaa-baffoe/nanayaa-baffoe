@@ -1,9 +1,15 @@
-# Hi, I’m Enochlin NanaYaa Dansowaa Baffoe 👋  
 
-🎓 **Cybersecurity Intern | BSc Cybersecurity Student at GCTU (Accra, Ghana)**  
+<h1 align="center">Hi, I’m Enochlin NanaYaa Dansowaa Baffoe 👋</h1>  
 
-I’m passionate about **securing systems, exploring threats, and learning both offensive and defensive security**.  
-Right now, I’m especially interested in **auditing, monitoring, phishing simulations, and vulnerability assessments**.  
+<p align="center">
+  🎓 <b>Cybersecurity Intern | BSc Cybersecurity Student at GCTU (Accra, Ghana)</b>  
+</p>  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-Passion-blue?style=flat-square&logo=hackthebox" />
+  <img src="https://img.shields.io/badge/Loves-Research-success?style=flat-square&logo=readthedocs" />
+  <img src="https://img.shields.io/badge/Currently-Learning-orange?style=flat-square&logo=linux" />
+</p>  
 
 ---
 
@@ -30,9 +36,9 @@ Right now, I’m especially interested in **auditing, monitoring, phishing simul
 ---
 
 ## 📌 Featured Projects
+🚀 *(Coming Soon!)*  
 - `FUTURE_CS_01` | `FUTURE_CS_02` | `FUTURE_CS_03` → Internship projects on monitoring & vulnerability testing  
 - `wireshark-filter-cheatsheet` → Simplified filters explained in plain English  
-- *(more projects coming soon!)*  
 
 ---
 
@@ -53,9 +59,11 @@ When I’m not learning security, I enjoy:
 ---
 
 ## 🤝 Let’s Connect
-- **LinkedIn**: [www.linkedin.com/in/enochlinbaffoe](https://www.linkedin.com/in/enochlinbaffoe)  
-- **Email**: denochlin@gmail.com  
+<p align="center">
+  <a href="https://www.linkedin.com/in/enochlinbaffoe"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:denochlin@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail" /></a>
+</p>  
 
 ---
 
-💡 *“Explaining cybersecurity simply—for beginners and beyond.”*  
+<p align="center"><i>💡 “Explaining cybersecurity simply—for beginners and beyond.”</i></p>
