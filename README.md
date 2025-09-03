@@ -54,7 +54,7 @@ When I’m not learning security, I enjoy:
 
 ## 🤝 Let’s Connect
 - **LinkedIn**: [www.linkedin.com/in/enochlinbaffoe](https://www.linkedin.com/in/enochlinbaffoe)  
-- **Email**: enochlin.sec@gmail.com  
+- **Email**: denochlin@gmail.com  
 
 ---
 
